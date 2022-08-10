@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes page
+This is a readme file for the odin-recipes page.
